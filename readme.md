@@ -31,8 +31,8 @@ If you face any problem, kindly raise an issue
 
 ### Contributors
 
-##### 1) (Akshay Bahadur)[https://github.com/akshaybahadur21/]
-##### 2) (Raghav Patnecha)[https://github.com/raghavpatnecha]
+##### 1) [Akshay Bahadur](https://github.com/akshaybahadur21/)
+##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
  
  
 <img src="https://github.com/akshaybahadur21/Emojinator/blob/master/emo.gif">
