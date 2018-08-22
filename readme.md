@@ -1,4 +1,5 @@
-## Emojinator
+# Emojinator [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)
+
 This code helps you to recognize and classify different emojis. As of now, we are only supporting hand emojis.
 
 
