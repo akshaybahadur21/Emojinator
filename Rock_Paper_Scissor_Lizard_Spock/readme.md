@@ -13,7 +13,7 @@ You can install Conda for python which resolves all the dependencies for machine
 Rock–paper–scissors (also known as scissors-paper-rock or other variants) is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is identical to the two-fingered V sign (aka "victory" or "peace sign") except that it is pointed horizontally instead of being held upright in the air. A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a win for one player and a loss for the other.
 
 ### Rules
-###### Scissors cuts Paper --> Paper covers Rock --> Rock crushes Lizard --> Lizard poisons Spock --> Spock smashes Scissors --> Scissors decapitates Lizard --> Lizard eats Paper --> Paper disproves Spock --> Spock vaporizes Rock --> (and as it always has) Rock crushes Scissors 
+##### Scissors cuts Paper --> Paper covers Rock --> Rock crushes Lizard --> Lizard poisons Spock --> Spock smashes Scissors --> Scissors decapitates Lizard --> Lizard eats Paper --> Paper disproves Spock --> Spock vaporizes Rock --> (and as it always has) Rock crushes Scissors 
 
 
 ### Functionalities
