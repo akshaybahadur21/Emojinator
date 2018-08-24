@@ -5,6 +5,8 @@ This code helps you to recognize and classify different emojis. As of now, we ar
 ### Sourcerer
 [![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/7)
 
+## [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
+
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
 
@@ -39,6 +41,8 @@ If you face any problem, kindly raise an issue
  
  
 <img src="https://github.com/akshaybahadur21/Emojinator/blob/master/emo.gif">
+
+<img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
 
 
 
