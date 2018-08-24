@@ -35,6 +35,10 @@ If you face any problem, kindly raise an issue
 4) If you want to train the model, run 'RPS_Model.py'
 5) Finally, run `RPS_App.py` for playing Rock-Paper-Scissors-Lizard-Spock via webcam.
 
+### Tensorboard Visualization
+
+For tensorboard visualization, go to the specific log directory and run this command tensorboard --logdir=. You can go to localhost:6006 for visualizing your loss function.
+
 ### Contributors
 
 ##### 1) [Akshay Bahadur](https://github.com/akshaybahadur21/)
