@@ -1,4 +1,4 @@
-from scipy.misc import imread
+from scipy.misc.pilutil import imread #changed from 'from scipy.misc import imread'
 import numpy as np
 import pandas as pd
 import os
