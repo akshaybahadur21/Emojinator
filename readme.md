@@ -7,6 +7,7 @@ This code helps you to recognize and classify different emojis. As of now, we ar
 
 # [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock) [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
+# [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2) [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
@@ -46,7 +47,5 @@ If you face any problem, kindly raise an issue
 ### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
 <img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
 
-
-
-
-
+### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
+<img src="Emojinator_V2/emo_v2.gif">
