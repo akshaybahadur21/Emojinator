@@ -40,9 +40,10 @@ If you face any problem, kindly raise an issue
 ##### 1) [Akshay Bahadur](https://github.com/akshaybahadur21/)
 ##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
  
- 
+### Emojinator
 <img src="https://github.com/akshaybahadur21/Emojinator/blob/master/emo.gif">
 
+### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
 <img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
 
 
