@@ -41,7 +41,7 @@ For tensorboard visualization, go to the specific log directory and run this com
 ##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
  
  
-<img src="https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2/blob/master/emo_v2.gif">
+<img src="emo_v2.gif">
 
 ### References:
  
@@ -49,8 +49,3 @@ For tensorboard visualization, go to the specific log directory and run this com
  - [Raccoon Detector Dataset by Datitran](https://github.com/datitran/raccoon_dataset) 
  - [Tzuta Lin's LabelImg for dataset annotation](https://github.com/tzutalin/labelImg)
  - This implementation also took a lot of inspiration from the Victor D github repository : https://github.com/victordibia/handtracking  
-
-
-
-
-
