@@ -2,7 +2,7 @@ import numpy as np
 from keras import layers
 from keras.layers import Input, Dense, Activation, ZeroPadding2D, BatchNormalization, Flatten, Conv2D
 from keras.layers import AveragePooling2D, MaxPooling2D, Dropout, GlobalMaxPooling2D, GlobalAveragePooling2D
-from keras.utils import np_utils, print_summary
+from keras.utils import np_utils
 from keras.models import Sequential
 from keras.callbacks import ModelCheckpoint
 import pandas as pd
@@ -72,7 +72,6 @@ def main():
               callbacks=callbacks_list)
     scores = model.evaluate(X_test, test_y, verbose=0)
     print("CNN Error: %.2f%%" % (100 - scores[1] * 100))
-    print_summary(model)
 
     model.save('emojinator.h5')
 
