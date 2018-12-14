@@ -41,7 +41,7 @@ For tensorboard visualization, go to the specific log directory and run this com
 ##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
  
  
-<img src="https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2/emo_v2.gif">
+<img src="https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2/blob/master/emo_v2.gif">
 
 ### References:
  
