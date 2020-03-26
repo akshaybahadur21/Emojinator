@@ -42,10 +42,10 @@ If you face any problem, kindly raise an issue
 ##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
  
 ### Emojinator
-<img src="https://github.com/akshaybahadur21/Emojinator/blob/master/emo.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo.gif">
 
 ### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
-<img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
 
 ### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
-<img src="Emojinator_V2/emo_v2.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v2.gif">
