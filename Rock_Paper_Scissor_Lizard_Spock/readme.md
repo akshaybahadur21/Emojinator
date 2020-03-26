@@ -45,7 +45,7 @@ For tensorboard visualization, go to the specific log directory and run this com
 ##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
  
  
-<img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
 
 
 
