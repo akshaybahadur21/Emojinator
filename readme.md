@@ -8,6 +8,7 @@ This code helps you to recognize and classify different hand emojis
 - [Emojinator](https://github.com/akshaybahadur21/Emojinator)
 - [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock) 
 - [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2) 
+- [EmojiGram](https://github.com/akshaybahadur21/Emojinator/tree/master/EmojiGram)
 
 ## Code Requirements 🦄
 
@@ -51,3 +52,6 @@ If you face any problem, kindly raise an issue
 
 ### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v2.gif">
+
+### [EmoGram](https://github.com/akshaybahadur21/Emojinator/tree/master/EmojiGram)
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/EmoGram.gif">
