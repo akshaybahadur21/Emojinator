@@ -6,7 +6,7 @@ This code helps you to recognize and classify different hand emojis
 
 ## Versions 🗽
 
-- [Emojinator](https://github.com/akshaybahadur21/Emojinator)
+- [Emojinator](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator)
 - [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock) 
 - [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2) 
 - [EmojiGram](https://github.com/akshaybahadur21/Emojinator/tree/master/EmojiGram)
