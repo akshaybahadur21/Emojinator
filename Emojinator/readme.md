@@ -3,18 +3,11 @@
 
 This code helps you to recognize and classify different hand emojis
 
-## Versions 🗽
-
-- [Emojinator](https://github.com/akshaybahadur21/Emojinator)
-- [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock) 
-- [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2) 
-- [EmojiGram](https://github.com/akshaybahadur21/Emojinator/tree/master/EmojiGram)
-
 ## Code Requirements 🦄
 
 You can install Conda for python which resolves all the dependencies for machine learning.
 
-##### pip install requirements.txt
+`pip install requirements.txt`
 
 ## Description 🤘
 Emojis are ideograms and smileys used in electronic messages and web pages. Emoji exist in various genres, including facial expressions, common objects, places and types of weather, and animals. They are much like emoticons, but emoji are actual pictures instead of typographics.
@@ -44,14 +37,4 @@ If you face any problem, kindly raise an issue
 
 ## Results 📊
 
-### [Emojinator](https://github.com/akshaybahadur21/Emojinator)
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo.gif">
-
-### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
-
-### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v2.gif">
-
-### [EmoGram](https://github.com/akshaybahadur21/Emojinator/tree/master/EmojiGram)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/EmoGram.gif">
