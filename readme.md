@@ -14,6 +14,10 @@ This code helps you to recognize and classify different hand emojis
 - [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Rock-Paper-Scissors-Lizard-Spock) 
 - [EmojiGram](https://github.com/akshaybahadur21/EmojiGram)
 
+## Description 🤘
+
+Emojis are ideograms and smileys used in electronic messages and web pages. Emoji exist in various genres, including facial expressions, common objects, places and types of weather, and animals. They are much like emoticons, but emoji are actual pictures instead of typographics.
+
 ## File Organization 🗄️
 
 ```shell
