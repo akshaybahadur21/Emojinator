@@ -8,6 +8,7 @@ This code helps you to recognize and classify different hand emojis
 
 - [Emojinator](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator)
 - [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2) 
+- [Emojinator 3.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V3)
 
 ## Moved to a different Repo 🏺
 
@@ -51,6 +52,10 @@ Emojis are ideograms and smileys used in electronic messages and web pages. Emoj
 
 ### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v2.gif">
+
+
+### [Emojinator 3.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V3)
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v3.gif">
 
 ### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
