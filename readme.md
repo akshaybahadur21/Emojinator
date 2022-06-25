@@ -55,7 +55,7 @@ Emojis are ideograms and smileys used in electronic messages and web pages. Emoj
 
 
 ### [Emojinator 3.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V3)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v3.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v3.gif" width=1000>
 
 ### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
