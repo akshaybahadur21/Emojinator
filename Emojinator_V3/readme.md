@@ -1,4 +1,6 @@
-# Emojinator V3 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# Emojinator 3.0 
+
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 An enhanced emoji classifier for humans.
 
@@ -13,9 +15,9 @@ Emojis are ideograms and smileys used in electronic messages and web pages. Emoj
 
 
 ### Functionalities
-1) Tensorflow's object detection API for training SSD with MobilnetV1
-1) Filters to detect hand.
+1) Mediapipe Hand Detection.
 2) CNN for training the model.
+3) OpenCV for vision-based modeling.
 
 
 ### Python  Implementation
@@ -26,11 +28,10 @@ If you face any problem, kindly raise an issue
 
 ### Procedure
 
-1) First, generate images using `get_hand_images.py`. Make sure that you take images from different angles.
-2) Data will be stored in `/data` folder
-3) Annotate the data using the [labelImg program](https://github.com/tzutalin/labelImg) by tzutalin.
-4) For training, you can use my uploaded model in `/hand_detection_inference_graph` or you can train your own model using [sentdex turorial](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)
-5) Finally, run `Emojinator_V2.py` for using Emojinator 2.0 via webcam.
+1) First, generate images using `CreateGest_V3.py.py`. Make sure that you take images from different angles.
+2) Data will be stored in `/gestures` folder
+3) Run `TrainEmojinator_V3.py` to train the model on the stored images.
+4) Finally, run Emojinator_V3.py for using Emojinator 3.0 via webcam.
 
 ### Contributors
 
