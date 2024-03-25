@@ -63,5 +63,19 @@ Emojis are ideograms and smileys used in electronic messages and web pages. Emoj
 ### [EmoGram](https://github.com/akshaybahadur21/Emojinator/tree/master/EmojiGram)
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/EmoGram.gif">
 
+
+📌 Cite Us
+
+To cite this guide, use the below format:
+```
+@article{emojinator,
+author = {Bahadur, Akshay},
+journal = {https://github.com/akshaybahadur21/Emojinator},
+month = {01},
+title = {{Emojinator}},
+year = {2018}
+}
+```
+
 ###### Made with ❤️ and 🦙 by Akshay Bahadur
 
